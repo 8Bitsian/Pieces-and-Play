@@ -7,4 +7,5 @@ Other board games to add to the project:
   - [Gomoku](https://playboardgames.org/play/gomoku)
 - [Reversi](https://playboardgames.org/play/reversi)
 - [Shogi](https://playboardgames.org/play/shogi)
-  - [Hasami Shogi](https://playboardgames.org/play/hasami-shogi)
+  - [Hasami](https://playboardgames.org/play/hasami-shogi)
+  - [Taikyoku](https://en.wikipedia.org/wiki/Taikyoku_shogi)
