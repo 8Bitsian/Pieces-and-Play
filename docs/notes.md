@@ -15,4 +15,4 @@ Other board games to add:
 - [Blender](https://www.blender.org/)
 - [Google Fonts](https://fonts.google.com/?preview.layout=grid)
   - [Google Icons](https://fonts.google.com/icons?preview.layout=grid)
-- [GAP programming language](https://www.gap-system.org/)
+- [Godot Programming Langauges](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html)
