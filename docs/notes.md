@@ -8,3 +8,11 @@ Other board games to add:
   - [Gomoku](https://playboardgames.org/play/gomoku)
 - [Shogi](https://playboardgames.org/play/shogi) 9x9 board
   - [Hasami](https://playboardgames.org/play/hasami-shogi)
+
+## Technologies
+- [GotdotEngine](https://godotengine.org/)
+  - [Online Editor](https://editor.godotengine.org/releases/latest/)
+- [Blender](https://www.blender.org/)
+- [Google Fonts](https://fonts.google.com/?preview.layout=grid)
+  - [Google Icons](https://fonts.google.com/icons?preview.layout=grid)
+- 
