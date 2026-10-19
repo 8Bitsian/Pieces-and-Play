@@ -1,5 +1,9 @@
+# Header
+@icon("res://assets/icons/queen.svg")
 class_name MainScene
 extends Node2D
+
+# Global Variables
 
 ## Called when the node initially enters the scene tree
 func _ready() -> void:
